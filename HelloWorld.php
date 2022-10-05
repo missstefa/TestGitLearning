@@ -4,6 +4,6 @@ class HelloWorld
 {
     public function sayHello()
     {
-        echo 'Hello World!';
+        echo 'Hello my dear World!';
     }
 }
