@@ -4,6 +4,6 @@ class GoodbyeWorld
 {
     public function sayGoodbye()
     {
-        echo 'Goodbye this fucking World!';
+        echo 'Goodbye this World!';
     }
 }
